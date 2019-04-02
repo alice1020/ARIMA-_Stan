@@ -1,2 +1,2 @@
-# ARIMA-_Stan
+# ARIMA_Stan
 Time Series Models with Stan
